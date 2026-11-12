@@ -1,0 +1,14 @@
+# 打包exe产物
+_internal/
+*.exe
+*.lnk
+
+# Python缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 临时文件、报表输出
+填报结果/
+模板/
